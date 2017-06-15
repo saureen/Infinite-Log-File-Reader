@@ -1,3 +1,3 @@
 <?php
-$LOG_DIRECTORY_BASE_PATH = "/Users/Saureen/Documents/demo/PG/samplelogs/";
+$LOG_DIRECTORY_BASE_PATH = "/var/www/logs/apache_error.log";
 ?>
