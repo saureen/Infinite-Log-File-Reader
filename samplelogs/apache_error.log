@@ -1,0 +1,73 @@
+[Sat Jan 30 22:10:21 2016] [notice] Digest: generating secret for digest authentication ...
+[Sat Jan 30 22:10:21 2016] [notice] Digest: done
+[Sat Jan 30 22:10:21 2016] [notice] FastCGI: process manager initialized (pid 2669)
+[Sat Jan 30 22:10:21 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Sat Jan 30 22:10:34 2016] [error] [client ::1] File does not exist: /Applications/MAMP/htdocs/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Sat Jan 30 22:59:31 2016] [notice] caught SIGTERM, shutting down
+[Sun Jan 31 03:47:14 2016] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 31 03:47:14 2016] [notice] Digest: done
+[Sun Jan 31 03:47:14 2016] [notice] FastCGI: process manager initialized (pid 7417)
+[Sun Jan 31 03:47:14 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Mon Feb 01 16:38:32 2016] [notice] caught SIGTERM, shutting down
+[Tue Mar 08 15:55:32 2016] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 08 15:55:32 2016] [notice] Digest: done
+[Tue Mar 08 15:55:32 2016] [notice] FastCGI: process manager initialized (pid 21865)
+[Tue Mar 08 15:55:32 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Tue Mar 08 16:17:21 2016] [notice] caught SIGTERM, shutting down
+[Tue Mar 08 16:17:27 2016] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 08 16:17:27 2016] [notice] Digest: done
+[Tue Mar 08 16:17:27 2016] [notice] FastCGI: process manager initialized (pid 22118)
+[Tue Mar 08 16:17:27 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Fri Mar 11 18:43:20 2016] [notice] caught SIGTERM, shutting down
+[Sat Mar 19 13:59:31 2016] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 19 13:59:31 2016] [notice] Digest: done
+[Sat Mar 19 13:59:31 2016] [notice] FastCGI: process manager initialized (pid 34196)
+[Sat Mar 19 13:59:31 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Sat Mar 19 14:00:26 2016] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/_Incapsula_Resource, referer: http://localhost:8888/?number=9773521381
+[Tue Mar 22 00:55:30 2016] [notice] caught SIGTERM, shutting down
+[Tue Mar 29 12:39:08 2016] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 29 12:39:08 2016] [notice] Digest: done
+[Tue Mar 29 12:39:08 2016] [notice] FastCGI: process manager initialized (pid 800)
+[Tue Mar 29 12:39:08 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Tue Mar 29 12:39:11 2016] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Tue Mar 29 12:39:19 2016] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/_Incapsula_Resource, referer: http://localhost:8888/
+[Wed Mar 30 12:52:56 2016] [notice] caught SIGTERM, shutting down
+[Mon Aug 08 16:53:26 2016] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 08 16:53:26 2016] [notice] Digest: done
+[Mon Aug 08 16:53:26 2016] [notice] FastCGI: process manager initialized (pid 2362)
+[Mon Aug 08 16:53:26 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Mon Aug 08 16:53:30 2016] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Mon Aug 08 16:53:35 2016] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/demo
+[Mon Aug 08 16:54:32 2016] [notice] caught SIGTERM, shutting down
+[Mon Aug 08 16:54:41 2016] [notice] Digest: generating secret for digest authentication ...
+[Mon Aug 08 16:54:41 2016] [notice] Digest: done
+[Mon Aug 08 16:54:41 2016] [notice] FastCGI: process manager initialized (pid 2445)
+[Mon Aug 08 16:54:41 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Thu Aug 11 14:28:26 2016] [notice] Digest: generating secret for digest authentication ...
+[Thu Aug 11 14:28:26 2016] [notice] Digest: done
+[Thu Aug 11 14:28:27 2016] [notice] FastCGI: process manager initialized (pid 951)
+[Thu Aug 11 14:28:27 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Thu Aug 11 14:28:30 2016] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Fri Aug 12 20:42:53 2016] [notice] caught SIGTERM, shutting down
+[Fri Aug 12 20:43:08 2016] [notice] Digest: generating secret for digest authentication ...
+[Fri Aug 12 20:43:08 2016] [notice] Digest: done
+[Fri Aug 12 20:43:08 2016] [notice] FastCGI: process manager initialized (pid 5195)
+[Fri Aug 12 20:43:08 2016] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Mon Aug 29 13:55:25 2016] [notice] caught SIGTERM, shutting down
+[Sun May 28 14:30:56 2017] [notice] Digest: generating secret for digest authentication ...
+[Sun May 28 14:30:56 2017] [notice] Digest: done
+[Sun May 28 14:30:56 2017] [notice] FastCGI: process manager initialized (pid 837)
+[Sun May 28 14:30:56 2017] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Sun May 28 14:31:01 2017] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/docs-assets, referer: http://localhost:8888/MAMP/?language=English
+[Sun May 28 14:31:11 2017] [error] [client ::1] File does not exist: /Users/Saureen/Documents/demo/playground/demo
+[Sun May 28 14:32:09 2017] [notice] caught SIGTERM, shutting down
+[Sun May 28 15:18:07 2017] [notice] Digest: generating secret for digest authentication ...
+[Sun May 28 15:18:07 2017] [notice] Digest: done
+[Sun May 28 15:18:07 2017] [notice] FastCGI: process manager initialized (pid 2605)
+[Sun May 28 15:18:07 2017] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Sun May 28 15:20:00 2017] [notice] caught SIGTERM, shutting down
+[Sun May 28 15:20:05 2017] [notice] Digest: generating secret for digest authentication ...
+[Sun May 28 15:20:05 2017] [notice] Digest: done
+[Sun May 28 15:20:05 2017] [notice] FastCGI: process manager initialized (pid 2805)
+[Sun May 28 15:20:05 2017] [notice] Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/5.6.10 mod_ssl/2.2.29 OpenSSL/0.9.8zf DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 configured -- resuming normal operations
+[Sun May 28 15:20:24 2017] [notice] caught SIGTERM, shutting down

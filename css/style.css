@@ -1,0 +1,76 @@
+#fileLocation {
+    width: 80%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 6px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myTable {
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+} 
+
+#myTable th, #myTable td {
+    text-align: left; /* Left-align text */
+    padding: 8px; /* Add padding */
+}
+
+#myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd; 
+}
+
+#myTable tr.header, #myTable tr:hover {
+    /* Add a grey background color to the table header and on hover */
+    background-color: #f1f1f1;
+}
+
+#search{
+    width: 116px;
+    height: 42px;
+    pointer-events: fill;
+    background-color: #4CAF50;
+    color: #ffffff;
+    font-size: 17px;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+#btnnav a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+#btnnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.select {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.deselect {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.info{
+    color: darkgray;
+    font-size: 12px;
+}
+
+#btnnav {
+    padding: 10px 0 20px 0px;
+}
+
+.alert{
+    color:  darkgoldenrod;
+}
